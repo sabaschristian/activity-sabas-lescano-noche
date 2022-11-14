@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-A tree that may in Summer wear
-A nest of robins in her hair;
-=======
 Trees
 BY JOYCE KILMER
 
@@ -13,4 +9,6 @@ Against the earth’s sweet flowing breast;
 
 A tree that looks at God all day,
 And lifts her leafy arms to pray;
->>>>>>> 0d48c39e3a592a07fd3591450e39f9fdef532d33
+
+A tree that may in Summer wear
+A nest of robins in her hair;
